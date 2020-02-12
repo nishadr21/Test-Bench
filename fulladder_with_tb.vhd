@@ -1,3 +1,10 @@
+echo "# practice-git-submission-assignment-nishadr21" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/embedded-systems-1-spring-2020/practice-git-submission-assignment-nishadr21.git
+git push -u origin master
+
 -- fpga4student.com 
 -- FPGA projects, VHDL projects, Verilog projects 
 -- VHDL code for full adder 
